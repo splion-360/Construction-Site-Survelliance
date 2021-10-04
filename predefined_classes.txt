@@ -1,0 +1,6 @@
+helmet
+head
+glove
+hand
+shoe
+feet
